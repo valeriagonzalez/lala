@@ -1,0 +1,29 @@
+header.masthead {
+  z-index: -10;
+
+}
+
+div.op  {
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -5;
+}
+
+img.centrar {
+  margin-bottom: -0.5rem;
+  margin-top: -0.6rem;
+}
+p.centrar {
+  margin-top: -0.2rem;
+}
+div.contac-color {
+  color: white;
+}
+iframe.face{
+  margin-left: 20rem;
+}
+div.modal-body .text-uppercase .pasacalles {
+  max-width: 150px;
+}
+.portfolio-modal .modal-content img {
+  max-width: 59px;
+}
